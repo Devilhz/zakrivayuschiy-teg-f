@@ -282,10 +282,10 @@ a {
   height: 191px;
 }
 .dialog__floppy__text {
-     display: grid;
-    grid-auto-flow: column;
-    margin: 17px 22px 0px 22px;
-    gap: 20px;
+  display: grid;
+  grid-auto-flow: column;
+  margin: 17px 22px 0px 22px;
+  gap: 20px;
 }
 .dialog__main__text {
   font-family: var(--accent-font);
@@ -321,7 +321,7 @@ a {
   translate: 0%;
 }
 .dialog__button:focus-visible {
-  box-shadow: 2px 2px  var(--accent-color);
+  box-shadow: 2px 2px var(--accent-color);
 }
 .dialog__button:focus {
   outline: none;
@@ -330,11 +330,11 @@ a {
   outline: none;
 }
 .card__like-button:focus-visible {
-  box-shadow: 2px 2px  var(--accent-color);
+  box-shadow: 2px 2px var(--accent-color);
 }
 .footer__button:focus {
   outline: none;
 }
 .footer__button:focus-visible {
-  box-shadow: 2px 2px  var(--accent-color);
+  box-shadow: 2px 2px var(--accent-color);
 }

@@ -40,7 +40,7 @@
   justify-items: center;
   align-content: center;
   width: 100%;
-  min-block-size: clamp(20.438rem, 3.85vw + 19.535rem, 23rem);
+  padding-block: clamp(7.5rem, 0.751vw + 7.324rem, 8rem);
   margin: 6.25rem 0;
   background-color: #fff;
   border: 2px solid var(--border-color);
@@ -273,7 +273,7 @@ a {
 
 #dialog {
   width: 341px;
-  height: 191px;
+  padding-block: 23px;
 }
 #dialog::backdrop {
   background-color: #000000bf;

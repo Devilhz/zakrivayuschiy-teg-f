@@ -1,17 +1,17 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 :root {
-  --main-font: 'Inter', sans-serif;
-  --accent-font: 'PressStart2P-Regular', fantasy;
+  --main-font: "Inter", sans-serif;
+  --accent-font: "PressStart2P", fantasy;
   --main-font-size: 18px;
   --main-title-font-weight: 700;
   --main-font-weight: 400;
   --main-title-font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
   --secondary-title-font-size: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
-  --border-color: #000; 
+  --border-color: #000;
   --font-color: #000;
   --accent-color: #000;
   --water-mark: #ffffff;
   --heart-color: black;
   --heart-active: red;
-  --bg-color: #ffffff; 
+  --bg-color: #ffffff;
 }
